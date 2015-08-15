@@ -84,7 +84,7 @@ public class Customer {
 			System.out.println("Select 0 to proceed to shopping");
 			System.out.println("Select 1 to modify Items List");
 			System.out.println("Select 2 to for billing");
-			System.out.println("Select 3 to exit");
+			System.out.println("Select 3 to exit without buying");
 			System.out.println("--------------------");
 			int choice=sc.nextInt();
 			switch(choice)
